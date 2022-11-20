@@ -10,6 +10,6 @@ int main(){
 	scanf("%f", &radius);
 	area = pie*radius*radius;
 	perimeter = 2*pie*radius;
-	printf("\n AREA of the circle = %.3f\n PERIMETER of the circle = %.3f", area, perimeter); 
+	printf("\n AREA of the circle = %.3f sq. units\n PERIMETER of the circle = %.3f sq. units", area, perimeter); 
 	return 0;
 }
