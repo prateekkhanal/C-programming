@@ -9,6 +9,6 @@ int main(){
 	scanf("%f", &a);
 	printf("\n Enter the second number [Y] : "); 
 	scanf("%f", &b);
-	printf("\n First Number [X] = %f\n Second Number [Y] = %f\n", b, a); 
+	printf("\n First Number [X] = %.3f\n Second Number [Y] = %.3f\n", b, a); 
 	return 0;
 }
