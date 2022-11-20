@@ -9,6 +9,6 @@ int main(){
 	printf("\n Enter the RADIUS of the sphere [r] : "); 
 	scanf("%f", &radius);
 	area = 4*pie*radius*radius;
-	printf("\n SURFACE AREA OF THE SPHERE = %.3f", area); 
+	printf("\n SURFACE AREA OF THE SPHERE = %.3f sq. units", area); 
 	return 0;
 }
