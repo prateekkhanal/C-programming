@@ -16,3 +16,11 @@ int main(){
 	}
 	return 0;
 }
+/* 
+	Area = pie * r^2
+	1. declare pie, area, rad	
+	define pie
+	Read rad
+	area = pie * rad *rad
+	print AREA = area
+ * */
