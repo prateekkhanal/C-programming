@@ -5,9 +5,9 @@ WAP based c programs
 
 ### Week1  
 ![Week 1](https://github.com/prateekkhanal/C-programming/blob/main/Questions%20Images/Triton%20College%20-%20week1.png)
-%s/https:\/\/github.com\/prateekkhanal\/C-programming\/blob\/main\/
+
 ### Week2 [P1 & P2]  
-![Week 1](https://github.com/prateekkhanal/C-programming/blob/main/Questions%20Images/Triton%20College%20-week2%20-%201.png)
+![Week 1](https://github.com/prateekkhanal/C-programming/blob/main/Questions%20Images/Triton%20College%20-week2.png)
 
 ### Week2 [P3]  
 ![Week 1](https://github.com/prateekkhanal/C-programming/blob/main/Questions%20Images/Triton%20College%20-week2%20-%202.png)
