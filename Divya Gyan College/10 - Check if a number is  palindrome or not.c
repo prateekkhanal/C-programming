@@ -1,4 +1,4 @@
-// 31) WAP to find whether a number is palindrome or not using recursion.
+// 10) WAP to find whether a number is palindrome or not using recursion.
 
 #include <stdio.h>
 #include <math.h>
